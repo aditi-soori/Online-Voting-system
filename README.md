@@ -1,1 +1,1 @@
-# Online-Voting-system using RSA encryption for authentication
+# Online-Voting-system using RSA encrypted authentication
